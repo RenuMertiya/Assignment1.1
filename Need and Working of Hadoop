@@ -1,0 +1,13 @@
+Need of Hadoop:
+Hadoop is needed to overcome the challenges of big data that are-
+storage 
+processing
+Hadoop is an open source platform that provides excellent data management provision.
+It is a framework that supports the processing of large data setsin a distributing compuiting environment.
+It is designed to expand from single servers to thousands of machines each providing computation and storage. 
+
+
+Working of hadoop
+With hdfs the data is written once on the server and subsequently read and re-used many times.
+And MapReduce mainly works as breaking down the data into smaller manageable pieces and then processing the data in parallel
+on the distributed cluster and then combine the result. 
